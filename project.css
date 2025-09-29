@@ -1,0 +1,41 @@
+h1 {
+	border-style:solid;
+	color: white;
+	font-family: "papyrus";
+	text-align:center;
+	
+}
+
+header{
+	background-color: white;
+	color:black; 
+	background-image: url(https://e0.pxfuel.com/wallpapers/422/495/desktop-wallpaper-anime-world-anime-scenery-cute-anime-best-friends.jpg);	
+}
+
+body{
+	background-color: black;
+	color: white;
+
+	
+}
+
+p { 
+color: white;
+}	
+
+aside{
+	width: 20%;
+	display: flex;
+	margin-left: 80.5%;
+	background-image: url(https://e0.pxfuel.com/wallpapers/422/495/desktop-wallpaper-anime-world-anime-scenery-cute-anime-best-friends.jpg);
+	display: flex;
+}
+	
+main{
+	width: 100%;
+	
+}
+
+	
+
+	
